@@ -1,0 +1,1 @@
+It is a simple handshake message to send notification from loacl to remote repo.
